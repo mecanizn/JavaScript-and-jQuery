@@ -43,7 +43,7 @@ while(i < 3){
 for(var j = 0; j < 3; j++){
     alert(j)
 }
-*/
+
 
 //Tipos de dados
 var inteiro = 5;
@@ -54,3 +54,5 @@ var lista = ['laranja', inteiro, decimal, 'maçã', 'banana', string];
 for (i in lista){
     alert(lista[i])
 }
+
+*/
